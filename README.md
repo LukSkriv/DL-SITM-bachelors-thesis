@@ -1,6 +1,8 @@
 # SITM útoky pomocí modelů AI
 Tento repozitář slouží k ověření výsledků z bakalářské práce *Odběrová analýza pomocí AI*.
 
+Datasety a modely dostupné z [tohoto odkazu](https://zenodo.org/records/15487213?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjYzMTMzMzQ3LTFmMmUtNDI0Zi1iZTBlLTcxNjZjZjlkNDU4NyIsImRhdGEiOnt9LCJyYW5kb20iOiIzOWEyNDA5OTg2NWM1YWJiZTVlOWE3MWJmNGZjYjJmOCJ9.0blHykuOZTis-yO9NoMRY4Cd_fnOoK7OS-8-yxVfN5q71GXrMgHIkz6NMvg7x52Pxk82H4vP2eh8l1On0XTt5A "Zenodo").
+
 K dosažení očekávaných přesností by měly být modely používané k útokům na odpovídající datasety na kterých byly trénované. Přehled modelů a jejich přesností při trénování je k vidění v tabulkách.
 
 Datasety pro simulované útoky obsahují dvě kolize. Jedna je z třídy 1 a druhá z třídy 3. Cílem je, aby model byl schopný korektně identifikovat tyto dvě kolize s minimálním počtem falešných pozitiv.
