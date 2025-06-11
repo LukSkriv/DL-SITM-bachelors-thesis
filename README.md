@@ -46,7 +46,7 @@ Datasety pro simulované útoky obsahují dvě kolize. Jedna je z třídy 1 a dr
 
 ### Příklad použití
 ```bash
-./run_predictions.sh -m /models/arm/arm1024_4jit.h5 -t /datasets/arm/1024x/attack_jit4.hdf5 -T ARM
+./predict_and_evaluate.sh -m /models/arm/arm1024_4jit.h5 -t /datasets/arm/1024x/attack_jit4.hdf5 -T ARM
 ```
 
 ## Potřebné knihovny
